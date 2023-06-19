@@ -11,17 +11,17 @@ const Section = () => {
   const sectionItems = [
     {
       id: 1,
-      sentence: "Blue pearl necklace",
+      sentence: "Evil Eye White Beads Necklace",
       image_url: product_1,
     },
     {
       id: 2,
-      sentence: "Heart Shaped necklace",
+      sentence: "Eveil Eye Black Beads Bracelet",
       image_url: product_2,
     },
     {
       id: 3,
-      sentence: "Round based necklace",
+      sentence: "Shell Green Beads Necklace",
       image_url: product_3,
     },
   ];
