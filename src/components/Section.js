@@ -16,7 +16,7 @@ const Section = () => {
     },
     {
       id: 2,
-      sentence: "Eveil Eye Black Beads Bracelet",
+      sentence: "Evil Eye Black Beads Bracelet",
       image_url: product_2,
     },
     {
