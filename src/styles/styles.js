@@ -132,6 +132,10 @@ const styles = (theme) => {
       fontSize: "14px",
       opacity: "0.6",
     },
+    productImage: {
+      objectFit: "contain",
+      borderRadius: "10px",
+    },
   };
 };
 
